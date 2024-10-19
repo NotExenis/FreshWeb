@@ -14,3 +14,7 @@ deno task start
 ```
 
 This will watch the project directory and restart as necessary.
+
+
+
+Tailwindcss VSCode ext: https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
